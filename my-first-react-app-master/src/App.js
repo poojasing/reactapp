@@ -12,12 +12,12 @@ class App extends React.Component{
     super();
     this.state={
       hName : 'Myapp',
-      fName : 'Manish',
+      fName : 'Pooja',
       items :[
         {
           id : uuid.v4() ,
-          name :'manish',
-          sname :'kumar'
+          name :'pooja',
+          sname :'singh'
         }
       ]
     }
